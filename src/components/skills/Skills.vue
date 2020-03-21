@@ -7,7 +7,7 @@
                     <b-list-group-item href="#">Vue.js, HTML5, Freemarker, Bootstrap, Javascript</b-list-group-item>
                     <b-list-group-item href="#">Java 8, Spring Boot, Lombok, RabbitMq</b-list-group-item>
                     <b-list-group-item href="#">Karma, Selenium, JUnit5</b-list-group-item>
-                    <b-list-group-item href="#">AppDynamics, Kibana</b-list-group-item>
+                    <b-list-group-item href="#">Pivotal Cloud Foundry, AppDynamics, Kibana</b-list-group-item>
                     <b-list-group-item href="#">MariaDB, MySql</b-list-group-item>
                     <b-list-group-item href="#">Docker</b-list-group-item>
                 </b-list-group>
@@ -19,7 +19,6 @@
                     <b-list-group-item href="#">Domain Driven Development</b-list-group-item>
                     <b-list-group-item href="#">Microservice Architecture</b-list-group-item>
                     <b-list-group-item href="#">XP (Paired) Programming</b-list-group-item>
-                    <b-list-group-item href="#">Pivotal Cloud Foundry</b-list-group-item>
                 </b-list-group>
             </b-card>
             <b-card no-body header="Projects" style="background-color: darkgreen; color: white;">

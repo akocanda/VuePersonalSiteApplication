@@ -6,6 +6,7 @@
                       I have passion for modernizing applications with emerging technologies and methodologies,
                       including microservice architecture, domain-driven design and XP programming practices.
         </b-card-text>
+        <pre>-</pre>
         <b-card-text>
             Let's create something special.
         </b-card-text>

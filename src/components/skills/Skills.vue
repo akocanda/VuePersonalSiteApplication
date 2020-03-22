@@ -4,21 +4,21 @@
         <b-card-group deck>
             <b-card no-body header="Technical">
                 <b-list-group flush>
-                    <b-list-group-item href="#">Vue.js, HTML5, Freemarker, Bootstrap, Javascript</b-list-group-item>
-                    <b-list-group-item href="#">Java 8, Spring Boot, Lombok, RabbitMq</b-list-group-item>
-                    <b-list-group-item href="#">Karma, Selenium, JUnit5</b-list-group-item>
-                    <b-list-group-item href="#">Pivotal Cloud Foundry, AppDynamics, Kibana</b-list-group-item>
-                    <b-list-group-item href="#">MariaDB, MySql</b-list-group-item>
-                    <b-list-group-item href="#">Docker</b-list-group-item>
+                    <b-list-group-item>Vue.js, HTML5, Freemarker, Bootstrap, Javascript</b-list-group-item>
+                    <b-list-group-item>Java 8, Spring Boot, Lombok, RabbitMq</b-list-group-item>
+                    <b-list-group-item>Karma, Selenium, JUnit5</b-list-group-item>
+                    <b-list-group-item>Pivotal Cloud Foundry, Heroku, AppDynamics, Kibana</b-list-group-item>
+                    <b-list-group-item>MariaDB, MySql</b-list-group-item>
+                    <b-list-group-item>Docker</b-list-group-item>
                 </b-list-group>
             </b-card>
             <b-card no-body header="Design and Workplace Methodologies">
                 <b-list-group flush>
-                    <b-list-group-item href="#">Event Driven Design</b-list-group-item>
-                    <b-list-group-item href="#">Test Driven Development</b-list-group-item>
-                    <b-list-group-item href="#">Domain Driven Development</b-list-group-item>
-                    <b-list-group-item href="#">Microservice Architecture</b-list-group-item>
-                    <b-list-group-item href="#">XP (Paired) Programming</b-list-group-item>
+                    <b-list-group-item>Event Driven Design</b-list-group-item>
+                    <b-list-group-item>Test Driven Development</b-list-group-item>
+                    <b-list-group-item>Domain Driven Development</b-list-group-item>
+                    <b-list-group-item>Microservice Architecture</b-list-group-item>
+                    <b-list-group-item>XP (Paired) Programming</b-list-group-item>
                 </b-list-group>
             </b-card>
             <b-card no-body header="Projects" style="background-color: darkgreen; color: white;">
@@ -37,7 +37,7 @@
                                 disabled
                         ></b-form-tags>
                     </b-list-group-item>
-                    <b-list-group-item href="https://github.com/akocanda/VuePersonalSiteApplication" class="flex-column align-items-start">
+                    <b-list-group-item href="https://github.com/akocanda/spring-boot" class="flex-column align-items-start">
                         <div class="d-flex w-100 justify-content-between">
                             <h5 class="mb-1">Spring Boot Application</h5>
                         </div>
@@ -63,7 +63,7 @@
         },
         data() {
               return {
-                personalWebsiteTools: ['Vue.js', 'bootstrap-vue.js', 'JavaScript', 'CSS'],
+                personalWebsiteTools: ['Vue.js', 'bootstrap-vue.js', 'JavaScript', 'CSS', 'Heroku', 'Node.js'],
                 springBootTools: ['Spring Boot', 'JUnit5', 'Java 8']
         }
     }};

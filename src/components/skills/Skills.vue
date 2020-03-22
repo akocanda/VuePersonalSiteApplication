@@ -21,7 +21,7 @@
                     <b-list-group-item>XP (Paired) Programming</b-list-group-item>
                 </b-list-group>
             </b-card>
-            <b-card no-body header="Projects" style="background-color: darkgreen; color: white;">
+            <b-card no-body header="Check Out Some of My Projects" style="background-color: darkgreen; color: white;">
                 <b-list-group>
                     <b-list-group-item href="https://github.com/akocanda/VuePersonalSiteApplication" class="flex-column align-items-start">
                         <div class="d-flex w-100 justify-content-between">
